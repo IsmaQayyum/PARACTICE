@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "img":"https://zellbury.com/media/scandipwa_menuorganizer_item_icons/unstitched_unstitched_20240314.gif",
+        "title":"UNSTICHED"
+    },
+    {
+        "id":2,
+        "img":"https://zellbury.com/media/scandipwa_menuorganizer_item_icons/wwest_western_20240314.gif",
+        "title":"WESTREN"
+    },
+    {
+        "id":3,
+        "img":"https://zellbury.com/media/scandipwa_menuorganizer_item_icons/pret_ready-to-wear_20240314.gif",
+        "title":"PRET"
+    },
+    {
+        "id":4,
+        "img":"https://zellbury.com/media/scandipwa_menuorganizer_item_icons/frag_women_20240314_1.jpg",
+        "title":"FRANGRANCE"
+    },
+    {
+        "id":5,
+        "img":"https://zellbury.com/media/scandipwa_menuorganizer_item_icons/wbags_women-bags_20240314.jpg",
+        "title":"HAND BAG"
+    },
+    {
+        "id":6,
+        "img":"https://zellbury.com/media/scandipwa_menuorganizer_item_icons/trousers_trousers_20240314.jpg",
+        "title":"BOTTOM"
+    }
+    ,
+    {
+        "id":7,
+        "img":"https://zellbury.com/media/catalog/product/z/e/zellbury-ready-to-wear-for-girls-kurta-sky-blue-gps2210093-1.jpg",
+        "title":"KIDS"
+    }
+    ,
+    {
+        "id":8,
+        "img":"https://zellbury.com/media/scandipwa_menuorganizer_item_icons/mwest_t-shirts-and-polos_20240314.gif",
+        "title":"MENS"
+    }
+]

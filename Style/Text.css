@@ -1,0 +1,31 @@
+.un{
+    margin-top: 8px;
+    background-color: bisque;
+}
+.pr{
+margin-right: 20px;
+}
+.main{
+    display: flex;
+    width: 100%;
+}
+.lef{
+width: 40%;
+
+}
+.right{
+    width: 60%;
+   
+}
+.s{
+    margin-left: 50px;
+}
+.sc{
+  margin-left: 100px;  
+}
+.scs{
+    margin-left: 100px;
+}
+.sce{
+    margin-left: 100px;
+}
